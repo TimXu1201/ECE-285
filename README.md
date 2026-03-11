@@ -135,7 +135,7 @@ Manual options:
 - `weights=None` → train from scratch
 - `weights=ResNet18_Weights.IMAGENET1K_V1` → ImageNet pretrained
 
-Please edit this line manually before running the experiment.
+Please edit this line manually before running the experiment!!!
 
 ## Outputs
 
